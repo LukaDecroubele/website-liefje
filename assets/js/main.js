@@ -163,7 +163,7 @@
       { game: 'good place', question: 'Wat is het systeem dat gebruikt wordt om mensen te judgen', correct: 'The Points System', wrong: ['The moral scale', 'The ethics index'] },
       { game: 'It takes two', question: 'Wat zijn de namen van de main characters', correct: 'Cody & May', wrong: ['Will & May', 'Cody & Rose', 'Will & Rose'] },
       { game: 'OMITB', question: 'Wat is de naam van het appartement', correct: 'The Arconia', wrong: ['The Belnord', 'The Dakota', 'The Concord'] },
-      { game: 'Stardew', question: 'Hoeveel geld hebben we gemaakt in totaal op Gewoon Boef Farm', correct: '130.000', wrong: ['100.000', '60.000', '180.000'] },
+      { game: 'Stardew', question: 'Hoeveel geld hebben we gemaakt in totaal op Gewoon Boef Farm', correct: '140.000', wrong: ['100.000', '60.000', '180.000'] },
       { game: 'Lost', question: 'Wat is de originele betekenis van de nummers 4 8 15 16 23 42', correct: 'De kandidaten om Jacob op te volgen om het eiland te beschermen', wrong: ['De coordinaten van het eiland', 'De code om in te geven in Swan Station'] }
     ];
     const container = document.getElementById('quiz-container');
